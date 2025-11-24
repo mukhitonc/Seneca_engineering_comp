@@ -1,3 +1,19 @@
+# Project Team Information
+
+This README contains the list of team members and their Seneca email addresses.
+
+## Team Members
+
+| Name       | Seneca Email                                          |
+| ---------- | ----------------------------------------------------- |
+| Your Name  | [yourname@myseneca.ca](mailto:yourname@myseneca.ca)   |
+| Issa Abishev | iabishev@myseneca.ca |
+| Mukhit AKimzhanov | makimzhanov@myseneca.ca |
+
+
+> Replace the placeholder names and emails with your actual team information.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
