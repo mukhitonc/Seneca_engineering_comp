@@ -6,7 +6,6 @@ This README contains the list of team members and their Seneca email addresses.
 
 | Name       | Seneca Email                                          |
 | ---------- | ----------------------------------------------------- |
-| Your Name  | [yourname@myseneca.ca](mailto:yourname@myseneca.ca)   |
 | Issa Abishev | iabishev@myseneca.ca |
 | Mukhit AKimzhanov | makimzhanov@myseneca.ca |
 
