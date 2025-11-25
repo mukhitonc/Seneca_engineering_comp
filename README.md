@@ -10,7 +10,6 @@ This README contains the list of team members and their Seneca email addresses.
 | Mukhit AKimzhanov | makimzhanov@myseneca.ca |
 
 
-> Replace the placeholder names and emails with your actual team information.
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
